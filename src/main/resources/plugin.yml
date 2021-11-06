@@ -1,0 +1,8 @@
+name: AzuriteFactions
+version: '${project.version}'
+main: me.keano.factions.Factions
+load: POSTWORLD
+authors: [Keano]
+description: Made for Azurite
+depend:
+  - Cubed

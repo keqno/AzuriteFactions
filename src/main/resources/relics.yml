@@ -1,0 +1,6 @@
+RELICS:
+  TEST:
+    NAME: "Test"
+    DISPLAY_NAME: "&aTest Relic"
+    REWARDS:
+      - "ENDER_PEARL, 1, 0, 0, true:&3&lKekw, true:DURABILITY~10;DAMAGE_ALL~10, true:Lore1;Lore2"
